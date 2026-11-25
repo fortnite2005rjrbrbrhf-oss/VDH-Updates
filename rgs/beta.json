@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Release-Informationen",
+  "pub_date": "2026-11-25T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ECHTE_TAURI_SIG",
+      "url": "ECHTE_MSI_DOWNLOAD_URL"
+    }
+  }
+}
